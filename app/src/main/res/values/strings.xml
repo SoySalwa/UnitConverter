@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="kilogramos">Kilogramos:</string>
+    <string name="libras">Libras: </string>
+    <string name="number">Ingresa un numero</string>
+    <string name="convert">Convertir</string>
+    <string name="Kilo_libras">Kilogramos a Libras</string>
+</resources>
